@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TCHerrington
 - 👀 I’m interested in cybersecurity, artificial intelligence, and zombie movies.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me https://twitter.com/TC_Herrington
+- 📫 How to reach me
 
 <!---
 TCHerrington/TCHerrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
