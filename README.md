@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TCHerrington
-- 👀 I’m interested in cybersecurity, artificial intelligence, and zombie movies.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java.
+- 👀 I’m interested in web design, cybersecurity, and zombie movies.
+- 🌱 I’m currently learning CSS, JavaScript, and Java.
 - 📫 Reach me via twitter @Celeste_Tam42
 
 <!---
