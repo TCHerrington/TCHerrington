@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @TCHerrington </h1>
+ <h1>👋 Hi, I’m @TCHerrington </h1>
 
 - 👀 I’m interested in software engineering, cybersecurity, and zombie movies.
 - 🌱 I’m currently learning JavaScript, CSS and Java.
