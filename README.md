@@ -5,7 +5,6 @@
 - 🌱 Aspiring to learn: robotics, data science.
 - 📫 Reach me via twitter @Celeste_Tam42
 
-- 
 - ✨Current personal project: Python text-based adventure game
 
 <!---
