@@ -3,7 +3,6 @@
 - 👀 I’m interested in software engineering, cybersecurity, and zombie movies.
 - 🌱 I’m currently learning Python and SQL.
 - 🌱 Aspiring to learn: robotics, data science.
-- 📫 Reach me via twitter @Celeste_Tam42
 
 - ✨Current personal project: Python text-based adventure game
 
