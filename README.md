@@ -1,10 +1,10 @@
  <h1>👋 Hi, I’m @TCHerrington </h1>
 
 - 👀 I’m interested in software engineering, cybersecurity, and zombie movies.
-- 🌱 I’m currently learning Python and SQL.
+- 🌱 I’m currently learning Python and cybersecurity (network security focus).
 - 🌱 Aspiring to learn: robotics, data science.
 
-- ✨Current personal project: Python text-based adventure game
+- ✨Current personal project: Python Boggle!
 
 <!---
 TCHerrington/TCHerrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
