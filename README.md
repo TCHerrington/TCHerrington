@@ -1,10 +1,10 @@
  <h1>👋 Hi, I’m @TCHerrington </h1>
 
 - 👀 I’m interested in software engineering, cybersecurity, and zombie movies.
-- 🌱 I’m currently re-learning React after forgetting literally everything about it.
-- 🌱 Aspiring to learn: more Java, improve back-end dev skills, threat hunting/ethical hacking!
+- 🌱 I’m currently learning C# and all things .net!
+- 🌱 Aspiring to learn: more green software stuff, improve back-end dev skills, threat hunting/ethical hacking!
 
-- ✨Current personal project: Python Boggle!
+- ✨Current personal project: C# Zork-inspired game!
 
 <!---
 TCHerrington/TCHerrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
